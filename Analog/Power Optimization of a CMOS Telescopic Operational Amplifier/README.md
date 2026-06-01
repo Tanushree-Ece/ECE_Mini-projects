@@ -39,5 +39,5 @@ The optimized designs demonstrated reduced power consumption compared to the ben
 ## Author
 
 Tanushree L
-Tanushree
+
 
