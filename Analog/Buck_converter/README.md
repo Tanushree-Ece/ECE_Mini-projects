@@ -54,19 +54,7 @@ where D is the duty cycle.
 
 ## Simulation Results
 
-### Output Voltage
-
-![Output Voltage](Analog/Buck_converter/Simulation_results/output_voltage.png)
-
-
-### Switching Waveform
-
-![PWM](Simulation_Results/switch_waveform.png)
-
-
-### Inductor Current
-
-![Inductor Current](Simulation_Results/inductor_current.png)
+The simulation result waveforms are there in "Simulation_results" folder 
 
 ---
 
