@@ -56,7 +56,7 @@ where D is the duty cycle.
 
 ### Output Voltage
 
-![Output Voltage](Simulation_Results/output_voltage.png)
+![Output Voltage](Analog/Buck_converter/Simulation_results/output_voltage.png)
 
 
 ### Switching Waveform
