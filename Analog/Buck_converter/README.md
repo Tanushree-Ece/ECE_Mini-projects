@@ -57,6 +57,17 @@ where D is the duty cycle.
 The simulation result waveforms are there in "Simulation_results" folder 
 
 ---
+### Observations
+
+- Input Voltage: **12 V**
+- Output Voltage: **≈ 5.6 V**
+- Average Inductor Current: **≈ 835 mA**
+- Stable PWM switching operation observed.
+- Continuous energy transfer through the inductor was verified.
+- Output voltage reached the desired regulated level with expected switching behavior.
+
+---
+
 
 ## Key Observations
 
